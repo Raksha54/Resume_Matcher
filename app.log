@@ -1,0 +1,4 @@
+2025-06-07 20:36:07,915 (get_score.py:124) - INFO: Started getting similarity score
+2025-06-07 20:36:10,236 (get_score.py:138) - INFO: Finished getting similarity score
+2025-06-07 20:36:13,916 (module_wrapper.py:149) - WARNING: From C:\Users\91990\AppData\Local\Programs\Python\Python311\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
